@@ -1,5 +1,7 @@
 # Alcronos Specification v0.1
 
+[![DOI](https://zenodo.org/badge/1252759251.svg)](https://doi.org/10.5281/zenodo.20435323)
+
 This repository contains the formal technical specification for **Alcronos (v0.1)**, a non-von Neumann programming language designed for volumetric, three-dimensional integrated photonic processors (CHIP-2070) and dynamic tensor-reconfigurable metamaterials within the AXION system framework.
 
 ## Project Overview
